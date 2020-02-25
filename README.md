@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an example to-do app using redux
+
 ## Available Scripts
 
 In the project directory, you can run:
