@@ -1,8 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import './LinkStyles.css'
 
 const Link = ({ active, children, onClick }) => (
     <button
+      className="buttons"
        onClick={onClick}
        disabled={active}
        style={{

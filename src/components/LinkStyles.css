@@ -1,0 +1,12 @@
+.buttons {
+  border: 2px dashed pink;
+  box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 10px 0px, rgb(255, 255, 255) -5px -5px 10px 0px;
+    border-radius: 50px;
+    border-style: none;
+    outline: none;
+    padding: 10px 30px;
+    /* transition: all 0.2s ease 0s; */
+    text-transform: uppercase;
+    background-color: rgb(235, 236, 240);
+    margin: 2rem;
+}
